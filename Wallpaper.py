@@ -4,7 +4,7 @@ from PIL import Image
 width, height = 1920, 1080
 base_hex = "#0074B0"
 noise_hex = "#42A8BE"
-output_path = "perlin_wallpaper_0074B0_42A8BE.png"
+output_path = "perlin_wallpaper.png"
 
 def hex_to_rgb(h):
     h = h.lstrip("#")
