@@ -1,1 +1,1 @@
-Wallpaper create by Perlin noise algorithm
+Wallpaper generated using the Perlin noise algorithm.
